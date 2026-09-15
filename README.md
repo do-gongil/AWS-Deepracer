@@ -45,9 +45,19 @@ AWS DeepRacer 대회 출전 코드
 
 `tools/visualization.py` — 보상함수에 내장된 `racing_track` 배열을 matplotlib 으로 플로팅. 레이싱 라인과 구간 속도를 눈으로 확인하는 용도입니다.
 
-## Media
+## Driving footage
 
-`media/aws_예선.mp4` · `media/dh-best.mp4` — 본인 주행 기록
+### 본선 — Smile Speedway
+
+<video src="https://raw.githubusercontent.com/do-gongil/deepracer_raceline/main/media/dh-best.mp4" poster="https://raw.githubusercontent.com/do-gongil/deepracer_raceline/main/media/dh-best-poster.png" controls width="480"></video>
+
+[dh-best.mp4](media/dh-best.mp4) — 640×480, 21초
+
+### 예선 — Spain track
+
+<video src="https://raw.githubusercontent.com/do-gongil/deepracer_raceline/main/media/aws_%EC%98%88%EC%84%A0.mp4" poster="https://raw.githubusercontent.com/do-gongil/deepracer_raceline/main/media/qualifier-poster.png" controls width="480"></video>
+
+[aws_예선.mp4](media/aws_%EC%98%88%EC%84%A0.mp4) — 640×480, 27초
 
 ## Not in this repository
 
