@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# 학습 모델 (각 21MB, 총 87MB)
+models/
+*.tar.gz
+
+# 서드파티 — 재배포 불가
+data/RaceLine_Speed_ActionSpace.ipynb
+raceline_speed_actionspace.py
+matthew.py
+Tandetzky.py
+*.pdf
+*.docx
+
+# 자격증명 — 절대 커밋 금지
+*signin.aws.amazon*
+*.pem
+*.key
+.env
