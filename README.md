@@ -49,18 +49,15 @@ AWS DeepRacer 대회 출전 코드
 
 ### 본선 — Smile Speedway
 
-![본선 주행](media/final-smile-speedway.gif)
+https://github.com/user-attachments/assets/9c1f7fce-4877-4409-a1b3-1ebe5970a81f
 
-원본 영상: [dh-best.mp4](media/dh-best.mp4) · 640×480 · 21초
+640×480 · 21초 · [원본 파일](media/dh-best.mp4)
 
 ### 예선 — Spain track
 
-![예선 주행](media/qualifier-spain.gif)
+https://github.com/user-attachments/assets/fc6d0c31-de34-4c06-9008-8e11ec8a58fc
 
-원본 영상: [aws_예선.mp4](media/aws_%EC%98%88%EC%84%A0.mp4) · 640×480 · 27초
-
-> GIF 는 320px · 6fps 로 줄인 미리보기입니다. 원본 화질은 위 mp4 링크에서 확인하세요.
-> GitHub 는 저장소에 커밋된 mp4 를 인라인 재생하지 않아 GIF 로 대체했습니다.
+640×480 · 27초 · [원본 파일](media/aws_%EC%98%88%EC%84%A0.mp4)
 
 ## Not in this repository
 
