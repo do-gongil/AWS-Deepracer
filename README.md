@@ -1,12 +1,12 @@
 # deepracer_raceline
 
-AWS DeepRacer 대회 출전 코드입니다. 레이싱 라인 추종 기반 보상함수와 트랙 분석 결과를 담고 있습니다.
+AWS DeepRacer 대회 출전 코드
 
 2025 춘천 AWS DeepRacer Championship 본선 11위.
 
 ## Reward functions
 
-예선과 본선은 **트랙이 달라 보상함수도 다릅니다.** 좌표계가 전혀 다르므로 서로 호환되지 않습니다.
+예선과 본선은 **트랙이 달라 보상함수 다릅니다.** 서로 호환되지 않습니다.
 
 ### `qualifier_spain/reward_function.py` — 예선
 - 359줄, 2025-09-10
