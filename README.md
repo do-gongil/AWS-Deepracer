@@ -2,7 +2,7 @@
 
 AWS DeepRacer 대회 출전 코드
 
-2025 춘천 AWS DeepRacer Championship 본선 11위.
+2025 춘천 AWS DeepRacer Championship - Team T.V. - **예선 25위, 본선 11위.**
 
 ## Reward functions
 
@@ -21,7 +21,7 @@ AWS DeepRacer 대회 출전 코드
 
 ### `final_smile_speedway/rnd2_reward.py` — 본선 2라운드 (장애물)
 - 208줄, 2025-09-15
-- **접근법이 다릅니다.** 레이싱 라인 추종이 아니라 `objects_location` 기반 **장애물 회피** 보상함수
+- 레이싱 라인 추종이 아니라 `objects_location` 기반 **장애물 회피** 보상함수
 - 정적 장애물이 배치된 라운드용
 
 ### `final_smile_speedway/dh_reward.py` — 간이 버전
