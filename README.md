@@ -1,4 +1,4 @@
-# deepracer_raceline
+# AWS-Deepracer
 
 AWS DeepRacer 대회 출전 코드
 
